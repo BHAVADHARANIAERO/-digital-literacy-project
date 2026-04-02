@@ -53,9 +53,9 @@ This task increased my awareness about online risks and safety measures.
 
 ## 🔗 Useful Links
 - GitHub Profile: 
-- LinkedIn Profile : 
-- Kaggle Profile : 
-- Google Form : 
+- LinkedIn Profile : https://www.linkedin.com/in/bhavadharani-s-4411933a2
+- Kaggle Profile : https://www.kaggle.com/bhavaaa
+- Google Form :  https://docs.google.com/forms/d/e/1FAIpQLSdTjIbVqG3CvnVLRWh4EejENQHM6JWkUIp95grmtbQWSUdyiA/viewform?usp=publish-editor
 
 ---
 
@@ -69,10 +69,9 @@ It also improved my confidence in using technology for academic purposes.
 - All tasks are organized in separate folders  
 - Screenshots are added as proof of work  
 - This repository shows my progress and learning
-- LinkedIn Profile : https://www.linkedin.com/in/shaakhee-tiwari-84a8793b9
-- Kaggle Profile : https://www.kaggle.com/shaakheetiwari
-- Google Form : https://docs.google.com/forms/d/e/1FAIpQLSeZzDwQ4o7gETYfV4EKmkKYD9ZFYvbpYoPuxJ_HOYh60pstpA/viewform?usp=header
-
+- LinkedIn Profile : https://www.linkedin.com/in/bhavadharani-s-4411933a2
+- Kaggle Profile : https://www.kaggle.com/bhavaaa
+- Google Form : https://docs.google.com/forms/d/e/1FAIpQLSdTjIbVqG3CvnVLRWh4EejENQHM6JWkUIp95grmtbQWSUdyiA/viewform?usp=publish-editor
 ---
 
 ##  What I Learned
